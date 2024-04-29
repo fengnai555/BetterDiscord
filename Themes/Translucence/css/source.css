@@ -5615,9 +5615,8 @@ body {
 }
 
 @font-face {
-  font-family: "851MkPOP";
-  src: url('https://example.com/your-font.woff2') format('woff2'),
-       url('https://example.com/your-font.woff') format('woff');
-  /* 添加其他字体格式（如ttf、eot等） */
+  font-family: "851MkPOP_101";
+  src: url('https://github.com/fengnai555/BetterDiscord/blob/master/Themes/Translucence/css/851MkPOP_101.ttf') format('truetype');
 }
+
 
