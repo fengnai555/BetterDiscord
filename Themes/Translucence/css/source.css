@@ -5613,3 +5613,11 @@ body {
 .selectedBackground__4039b {
   display: none;
 }
+
+@font-face {
+  font-family: "851MkPOP";
+  src: url('https://example.com/your-font.woff2') format('woff2'),
+       url('https://example.com/your-font.woff') format('woff');
+  /* 添加其他字体格式（如ttf、eot等） */
+}
+
